@@ -71,3 +71,23 @@ In data analytics, built-in functions help in:
 📈 Cleaning and transforming datasets
 ⚡ Improving efficiency in data processing
 
+
+## Masterclass Day 4 : Conditional Statements
+
+## What are Conditional Statements?
+
+Conditional statements allow your code to make decisions based on whether certain conditions are true or false. They enable you to execute different blocks of code depending on these conditions.
+
+## 🚀 Key Concepts and Examples:
+
+# ✅ if statement: Executes a block of code if a condition is true.
+
+# ✅ elif statement (else if): Checks another condition if the previous if condition is false. You can have multiple elif statements.
+
+# ✅ else statement: Executes a block of code if none of the preceding if or elif conditions are true.
+
+# ✅ Nested Conditional Statements: You can put if, elif, and else statements inside other conditional statements for more complex logic.
+ 
+
+
+
