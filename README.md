@@ -96,6 +96,9 @@ In data analytics, conditional statements are crucial for:
 📈 Data transformation: Creating new columns based on conditions (e.g., categorizing data).
 ⚡ Data analysis: Performing calculations or aggregations based on specific criteria.
 ⚙️ Control flow: Implementing complex logic for data processing pipelines.
+
+
+
  
 
 
